@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "8c53fd6e8d6475dcb628fb3a592de43a",
-"assets/AssetManifest.bin.json": "c0dc2baac63a69da47d3bda64059db86",
-"assets/AssetManifest.json": "48c01ecb79033e43a377f5ecaa33eb0b",
+const RESOURCES = {"assets/AssetManifest.bin": "36bee88467e5e781487ce54f0f49f220",
+"assets/AssetManifest.bin.json": "4f6c30618b4458bf6954b42d40b28aaa",
+"assets/AssetManifest.json": "99fa68a74a956fb4d41ab347bf4f4501",
 "assets/assets/animations/tap_button_yellow.json": "0a0509fe22b9cd7d3199107f3de4753f",
 "assets/assets/audio/abcd/a.mp3": "11380bdb581b01427955b197ca464ed4",
 "assets/assets/audio/abcd/b.mp3": "1acae9e1caccacba130bfcfde432d905",
@@ -44,6 +44,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "8c53fd6e8d6475dcb628fb3a592de43a
 "assets/assets/images/dashboard/fruits.gif": "467a8a9a94ec841579275cf6e2e336ec",
 "assets/assets/images/dashboard/insects.gif": "25101ac69c9e5aa342e063ff914f6252",
 "assets/assets/images/dashboard/numbers.gif": "1f11d13f5068c8dff661f332856ff766",
+"assets/assets/images/dashboard/objects.gif": "37b510a29ec7dd9223fa2c7d5b693557",
 "assets/assets/images/dashboard/reptiles.gif": "c640a2211acf7f7a981e688a6d8e4e9b",
 "assets/assets/images/dashboard/sea_animals.gif": "a14c5a27ee666b3c1eeaed24c32c9202",
 "assets/assets/images/dashboard/shapes.gif": "f4bb8adce53deba49c0e59b3a3748de2",
@@ -67,7 +68,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "8c53fd6e8d6475dcb628fb3a592de43a
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "98c6ed2f565d7be54648005d70b5c787",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"flutter_bootstrap.js": "f9c11f71bc94e87d1d4feeaa434b8434",
+"flutter_bootstrap.js": "71daa20ca56dcec0f14c2e5065daa515",
 "icons/Icon-192.png": "2922f2c9802c6d9611a357e10cfb6d26",
 "icons/Icon-512.png": "1f9281ab196f737b5194c7d1292bdf8e",
 "index.html": "3664f4f09f7f12f1faf5f26bcbc539a9",
