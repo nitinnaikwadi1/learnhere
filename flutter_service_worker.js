@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "f6e432777ed4cfa56c4a09002055c095",
-"assets/AssetManifest.bin.json": "547d954975cd1eaf99d184b1e9d4a27e",
-"assets/AssetManifest.json": "7e34edc492bd1ed54a3e210905323559",
+const RESOURCES = {"assets/AssetManifest.bin": "c95718173cbb24cfac2c68709acc71d6",
+"assets/AssetManifest.bin.json": "02265bb8b7bec6b870f51bbd8a97f10c",
+"assets/AssetManifest.json": "bd54e7a171d559103b40eedaaedc4374",
 "assets/assets/audio/backg_audio.mp3": "c2acaa54bda53adc6f558d982419b052",
 "assets/assets/images/back1.gif": "5f7a147e1cd3191e96cd6e511110bc2a",
 "assets/assets/images/back2.gif": "b0cc70e529101dea0720ae28e17de062",
@@ -24,14 +24,6 @@ const RESOURCES = {"assets/AssetManifest.bin": "f6e432777ed4cfa56c4a09002055c095
 "assets/assets/images/dashboard/trees.gif": "0a7f009a44a2b84eca1ed9f106b542af",
 "assets/assets/images/dashboard/vegetables.gif": "593fd1cabcab3421f6359b2182cd09c6",
 "assets/assets/images/dashboard/vehicle.gif": "431d5328ae1c96fd7e29c482480625bf",
-"assets/assets/images/random_frames/aeroplane.gif": "4948ac973e27e75a3a01664d808baa27",
-"assets/assets/images/random_frames/baloons.gif": "64817b714286024a342b0e13ac5cda9e",
-"assets/assets/images/random_frames/doll.gif": "caaa00913d2c63fb0c60e934ae2170fe",
-"assets/assets/images/random_frames/girl-colors.gif": "b77fc4f5fa1350e928bd3ed2f088faf5",
-"assets/assets/images/random_frames/panda.gif": "9e98694661c564a421ce218c7054bac8",
-"assets/assets/images/random_frames/sparrow.gif": "8b01971e08407e7e3775b6d7aae3cfa5",
-"assets/assets/images/random_frames/umbrella.gif": "8457c8f65650a6c4be66d9aa62b03b7a",
-"assets/assets/images/random_frames/windmill.gif": "9da5d760f90bbcb75cfa689df084d841",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "f154be92f685ae0669f33e5d536250ce",
 "assets/NOTICES": "b4a45fccd6a00ca9b656415eeac92235",
@@ -51,12 +43,12 @@ const RESOURCES = {"assets/AssetManifest.bin": "f6e432777ed4cfa56c4a09002055c095
 "canvaskit/skwasm_st.wasm": "56c3973560dfcbf28ce47cebe40f3206",
 "favicon.png": "98c6ed2f565d7be54648005d70b5c787",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
-"flutter_bootstrap.js": "a4a3a11fc50ea8ae6846add9b2338aa6",
+"flutter_bootstrap.js": "ff4a100924ffff872253495948c5c4fc",
 "icons/Icon-192.png": "2922f2c9802c6d9611a357e10cfb6d26",
 "icons/Icon-512.png": "1f9281ab196f737b5194c7d1292bdf8e",
 "index.html": "3664f4f09f7f12f1faf5f26bcbc539a9",
 "/": "3664f4f09f7f12f1faf5f26bcbc539a9",
-"main.dart.js": "ab9d26cf19055691adc95b6540ae8026",
+"main.dart.js": "a70d61493b4f024eeb1042ebf40c8997",
 "manifest.json": "2f01562ea88ffeaaaef18155d2dfac7b",
 "version.json": "bf9b7e925bbbb99253f37c3c67566aca"};
 // The application shell files that are downloaded before a service worker can
